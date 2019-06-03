@@ -11,8 +11,8 @@ DELETE	->	/user/id		"DELETE LOGICO DE LOS DATOS DEL USUARIO DADO POR EL ID"
 JSON EXAMPLE:
 {
     "id": ,
-    "dni": "48903865T",
-    "name": "LUIS GARCIA RAMOS"
+    "dni": "DNI valido",
+    "name": "nombre cliente"
 }
 
 
