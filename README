@@ -1,3 +1,11 @@
+﻿Proyecto del Curso de Spring Boot Data JPA.
+
+Aplicación de ejemplo de gestión de una empresa de alquiler de vehiculos. Utiliza una base de datos MySql por lo que deberas 
+tener instalado Mysql en local y cambiar la configuración en el application.properties.
+
+URL para probar con Postman:
+
+
 URL USER
 ---------------------------------------------------------------------------------------------------
 
